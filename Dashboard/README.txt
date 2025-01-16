@@ -9,6 +9,6 @@ O que fazer antes de executar esse programa?
   Nesse caso você deve adicionar o nome XARÍNFOLA no arquivo Bens_IF.xlsx da pasta PLANILHAS_GERAIS e especificar seu tipo (LABORATORIO/ELETRONICO/TABLET/MOBILIA/NOTEBOOK/MONITOR/COMPUTADOR/AR CONDICIONADO/MATERIAL BIBLIOGRAFICO/QUADRO/OUTROS)
 
 
-Como esse dashboard será apresentado à entes reguladoras da carga patrimonial do IF, ele já está funcionando com novos nomes das localidades.
+Como esse dashboard será apresentado a entes reguladores da carga patrimonial do IF, ele já está funcionando com novos nomes das localidades.
 
 O arquivo que contém a relação de nomes antigos e nomes atualizados é o arquivo Locais_geral.xlsx da pasta PLANILHAS_LOCALIDADES.
