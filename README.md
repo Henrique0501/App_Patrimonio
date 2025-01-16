@@ -7,3 +7,9 @@ Na época em que desenvolvi o presente o software, eu ainda não possuía domín
 
 O software é capaz de ler o código de barras da etiqueta de cada bem do Instituto de Física, retornando os atributos daquele bem e permitindo alterações.
 Caso o usuário prefira, ao invés de realizar a leitura do código de barras, ele pode digitar o número de tombamento ou ativar o reconhecimento de fala e pronunciar o número de tombamento. O efeito será o mesmo.
+
+O arquivo Manual - App_patrimnio.docx dá instruções acerca das principais funções do software
+
+# Dashboard
+
+O software Dashboard.py sem encontra na pasta "Dashboard"
