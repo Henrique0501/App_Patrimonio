@@ -18,4 +18,4 @@ O software em questão consiste em um dashboard que funciona no navegador. Foi d
 
 Foi desenvolvido com o intuito de apresentar aos diretores e coordenadores do Instituto de Física os detalhes da composição patrimonial do instituto.
 
-Baixe o arquivo video_dashboard.mkv para ver o vídeo onde são demonstradas as principais funções do dashboard.
+Baixe o arquivo video-dashboard.mkv para ver o vídeo onde são demonstradas as principais funções do dashboard.
