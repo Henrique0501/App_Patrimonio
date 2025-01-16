@@ -13,5 +13,7 @@ O arquivo Manual - App_patrimnio.docx dá instruções acerca das principais fun
 # Dashboard
 
 O software Dashboard_patrimonio.py se encontra na pasta "Dashboard".
+
 O software em questão consiste em um dashboard que funciona no navegador. Foi desenvolvido utilizando sobretudo as bibliotecas plotly e jupyter_dash do Python.
+
 Foi desenvolvido com o intuito de apresentar aos diretores e coordenadores do Instituto de Física os detalhes da composição patrimonial do instituto. 
